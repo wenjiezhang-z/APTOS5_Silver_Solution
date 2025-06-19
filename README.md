@@ -16,7 +16,7 @@ This repository contains the official code from the **SDU_VSISLAB** team, which 
 ---
 
 ## APTOS_val2 Results
-To obtain the results for **APTOS_val2**, follow these steps:
+To obtain the final results of **APTOS_val2**, follow these steps:
 
 1. Run the HMM combination script:
    ```bash
